@@ -2,10 +2,17 @@
 
 ### 🚀 Full Stack Developer | AI/ML Enthusiast
 
-Building scalable web apps and intelligent systems with a strong foundation in C++ & Python.  
-Experienced in developing ML solutions like CNN-based medical detection systems.  
-Focused on clean architecture, performance, and real-world impact.  
-Currently exploring backend engineering with Node.js & system design.
+I build scalable web applications and intelligent systems with a strong foundation in C++ and Python.  
+Built ML solutions including a CNN-based lung cancer detection system with advanced logic integration.  
+Designing clean, high-performance architectures focused on real-world impact.  
+Currently exploring backend engineering with Node.js and system design.  
+
+⚡ I build AI-powered systems that solve real-world problems.
+---
+## 🚀 Featured Projects
+
+🔹 Lung Cancer Detection (CNN + Fuzzy Logic)   
+🔹 XplaneAI- ai based github code explainer
 
 ---
 
