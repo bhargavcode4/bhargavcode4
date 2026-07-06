@@ -2,8 +2,8 @@
 
 ### 🚀 Full Stack Developer | AI/ML Enthusiast
 
-I build scalable web applications and intelligent systems with a strong foundation in C++ and Python.  
-Built ML solutions including a CNN-based lung cancer detection system with advanced logic integration.  
+I build scalable web applications and intelligent systems with a strong foundation in Python.  
+Built ML solutions including production-ready agentic AI assistant using Google ADK with Gemini 2.0 Flash (Vertex AI), integrating three real-time tools: live flight status (AviationStack), destination weather (OpenWeatherMap), and airport info lookup, a CNN-based lung cancer detection system with advanced logic integration.  
 Designing clean, high-performance architectures focused on real-world impact.  
 Currently exploring backend engineering with Node.js and system design.  
 
@@ -11,8 +11,12 @@ Currently exploring backend engineering with Node.js and system design.
 ---
 ## 🚀 Featured Projects
 
-🔹 Lung Cancer Detection (CNN + Fuzzy Logic)   
+  
 🔹 XplaneAI- ai based github code explainer
+🔹 FleetMindAi (Multi Agent Implementation) 
+🔹 Flight Agent (Real time flight and weather api with RAG System) 
+🔹 FInance Coach (Rag Based Finance gent) 
+🔹 Lung Cancer Detection (CNN + Fuzzy Logic) 
 
 ---
 
@@ -55,8 +59,7 @@ Currently exploring backend engineering with Node.js and system design.
 ## 🧩 What Sets Me Apart
 
 ✔️ Real-world AI projects (medical domain)  
-✔️ Strong problem-solving mindset (C++ + DSA)  
-✔️ Full-stack development with scalable architecture  
+✔️ Strong problem-solving mindset (python ,java + DSA)  
 ✔️ Fast learner with a focus on production-ready code  
 
 ---
